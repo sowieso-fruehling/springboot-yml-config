@@ -1,0 +1,11 @@
+something:
+  information: xoxo
+
+
+user-data:
+  name: M
+  surname: P
+  possessions:
+      - car
+      - house
+      - '2: bikes' #we need to use '' because of semicolon
